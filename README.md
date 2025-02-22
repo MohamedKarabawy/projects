@@ -30,7 +30,7 @@ Gateway System is an advanced Courses Management System designed to streamline t
 <img src="https://github.com/MohamedKarabawy/projects/blob/882425edc6e5c2e438b4eedb190371ff4f5e7057/02.png">
 
 <p>5. C.B.S Assets Inventory (Offline)</p>
-<p>Link: Pending
+<p>Link: Pending</p>
 Description:
 <br>
 Al7awy is an online platform that offers electronic tests and educational content. It is designed to support students and learners in assessing and enhancing their knowledge across a variety of subjects. The site provides digital exams, practice questions, and other tools aimed at improving academic performance.
