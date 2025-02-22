@@ -21,3 +21,10 @@ Description:
 <br>
 Triangle is a comprehensive surveying tool designed to assist surveying technicians and engineers in their daily tasks. The app integrates GIS, mapping, and surveying features, making it a valuable resource for various surveying activities. With Triangle, users can view precise location data on a map, and it supports the conversion of world latitude and longitude coordinates into local coordinates. The app also allows for the calculation of triangle areas, with results converted into multiple units, including square meters, Faddan, Qirat, and Sahm. Additionally, Triangle helps calculate land prices, factoring in commission when necessary, making it an essential tool for land surveying and real estate professionals.
 <img src="https://github.com/MohamedKarabawy/projects/blob/3f8e484149f067a0d62c1d7beea32fb2d11abfe5/03.png">
+
+<p>4. Courses Mangament System (Online)</p>
+<p>Link: <a href="https://gatewaysystem.net/">https://gatewaysystem.net/</a></p>
+Description:
+<br>
+Al7awy is an online platform that offers electronic tests and educational content. It is designed to support students and learners in assessing and enhancing their knowledge across a variety of subjects. The site provides digital exams, practice questions, and other tools aimed at improving academic performance.
+<img src="https://github.com/MohamedKarabawy/projects/blob/882425edc6e5c2e438b4eedb190371ff4f5e7057/02.png">
