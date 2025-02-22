@@ -33,5 +33,7 @@ Gateway System is an advanced Courses Management System designed to streamline t
 <p>Link: Pending</p>
 Description:
 <br>
-Al7awy is an online platform that offers electronic tests and educational content. It is designed to support students and learners in assessing and enhancing their knowledge across a variety of subjects. The site provides digital exams, practice questions, and other tools aimed at improving academic performance.
+C.B.S Assets Inventory is a comprehensive solution designed for large corporations to manage and track their fixed assets and inventory. The app allows businesses to efficiently organize assets, update their statuses, and monitor critical data in real-time. With an intuitive interface, C.B.S Assets Inventory simplifies asset management, reducing manual errors and ensuring businesses maintain accurate records.
+
+Key features include real-time status updates, customizable asset categories, and secure data management. The app supports large-scale organizations and provides notifications to keep users informed about asset maintenance schedules and changes. Designed for efficiency, C.B.S Assets Inventory streamlines operations and enhances decision-making, making it the ideal tool for businesses seeking to optimize their asset management processes.
 <img src="https://github.com/MohamedKarabawy/projects/blob/14f8ef9e6ef2a61c76834cd224a8cb73129e6360/04.png">
