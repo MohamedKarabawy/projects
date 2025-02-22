@@ -14,3 +14,10 @@ Brugram is designed as a comprehensive platform for a software development compa
 
 Additionally, the platform supports both blacklist and whitelist functionalities to manage user access, and it incorporates automation tools to streamline operations. A robust bug and error tracking system ensures issues are swiftly identified and resolved. The website design is fully dynamic, allowing for custom templates for each page, enabling users to personalize the layout and appearance according to their specific needs.
 <img src="https://github.com/MohamedKarabawy/projects/blob/cb21dea40035d4e8ff8266c6e322bd1149cbe3c7/05.png">
+
+<p>3. Triangle (Online)</p>
+<p>Link: <a href="https://play.google.com/store/apps/details?id=com.survey.triangle">https://play.google.com/store/apps/details?id=com.survey.triangle</a></p>
+Description:
+<br>
+Al7awy is an online platform that offers electronic tests and educational content. It is designed to support students and learners in assessing and enhancing their knowledge across a variety of subjects. The site provides digital exams, practice questions, and other tools aimed at improving academic performance.
+<img src="https://github.com/MohamedKarabawy/projects/blob/3f8e484149f067a0d62c1d7beea32fb2d11abfe5/03.png">
