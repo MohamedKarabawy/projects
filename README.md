@@ -37,3 +37,9 @@ C.B.S Assets Inventory is a comprehensive solution designed for large corporatio
 
 Key features include real-time status updates, customizable asset categories, and secure data management. The app supports large-scale organizations and provides notifications to keep users informed about asset maintenance schedules and changes. Designed for efficiency, C.B.S Assets Inventory streamlines operations and enhances decision-making, making it the ideal tool for businesses seeking to optimize their asset management processes.
 <img src="https://github.com/MohamedKarabawy/projects/blob/14f8ef9e6ef2a61c76834cd224a8cb73129e6360/04.png">
+
+<p>6. API DEMO (Code)</p>
+<p>Link: <a href="https://github.com/MohamedKarabawy/SanctumProject">https://github.com/MohamedKarabawy/SanctumProject</a></p>
+Description:
+<br>
+SanctumProject is a robust API demo designed to showcase the use of Laravel Sanctum for authentication and authorization. The project is intended to help developers understand how to implement secure API authentication in Laravel applications, with a focus on token-based authentication for single-page applications (SPAs) or mobile applications. The repository provides a comprehensive example of how to manage user roles and permissions, authenticate users via tokens, and handle protected routes efficiently. Developers can use this project as a foundation to build scalable and secure applications with Laravel's Sanctum package.
