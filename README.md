@@ -26,5 +26,5 @@ Triangle is a comprehensive surveying tool designed to assist surveying technici
 <p>Link: <a href="https://gatewaysystem.net/">https://gatewaysystem.net/</a></p>
 Description:
 <br>
-Al7awy is an online platform that offers electronic tests and educational content. It is designed to support students and learners in assessing and enhancing their knowledge across a variety of subjects. The site provides digital exams, practice questions, and other tools aimed at improving academic performance.
+Gateway System is an advanced Courses Management System designed to streamline the management of students, teachers, and courses. The platform allows administrators to manage different batches, each containing multiple classes, with full control over roles and permissions. Admins can create custom roles and assign specific permissions to ensure secure and efficient access management. The system features real-time messaging and notifications, allowing for instant communication across the platform. Built as a single-page application, Gateway System ensures seamless and real-time interactions, improving the overall user experience for both students and educators.
 <img src="https://github.com/MohamedKarabawy/projects/blob/882425edc6e5c2e438b4eedb190371ff4f5e7057/02.png">
