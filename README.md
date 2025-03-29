@@ -6,7 +6,7 @@
 ### Overview  
 Al7awy is an online platform that offers electronic tests and educational content. It is designed to support students and learners in assessing and enhancing their knowledge across a variety of subjects. The site provides digital exams, practice questions, and other tools aimed at improving academic performance.  
 
-![Al7awy](https://github.com/MohamedKarabawy/projects/01.png)  
+![Al7awy](https://github.com/MohamedKarabawy/projects/blob/main/01.png)  
 
 ---
 
@@ -25,7 +25,7 @@ Brugram is designed as a comprehensive platform for a software development compa
 - **Bug & Error Tracking** – Identifies and resolves issues efficiently.  
 - **Custom Templates** – Dynamic page design allowing layout personalization.  
 
-![Brugram](https://github.com/MohamedKarabawy/projects/05.png)  
+![Brugram](https://github.com/MohamedKarabawy/projects/blob/main/05.png)  
 
 ---
 
@@ -40,7 +40,7 @@ Triangle is a comprehensive surveying tool designed for technicians and engineer
 - **Triangle Area Calculation** – Supports multiple units (Square Meters, Faddan, Qirat, Sahm).  
 - **Land Price Calculation** – Includes commission-based pricing.  
 
-![Triangle](https://github.com/MohamedKarabawy/projects/03.png)  
+![Triangle](https://github.com/MohamedKarabawy/projects/blob/main/03.png)  
 
 ---
 
@@ -55,7 +55,7 @@ Gateway System is a powerful Courses Management System that enables seamless han
 - **Real-Time Communication** – Messaging and notifications for improved engagement.  
 - **Single-Page Application (SPA)** – Enhances user experience with seamless navigation.  
 
-![Courses Management System](https://github.com/MohamedKarabawy/projects/02.png)  
+![Courses Management System](https://github.com/MohamedKarabawy/projects/blob/main/02.png)  
 
 ---
 
@@ -70,7 +70,7 @@ C.B.S Assets Inventory is a robust solution designed for enterprises to manage a
 - **Secure Data Management** – Reduces errors and improves record accuracy.  
 - **Automated Notifications** – Alerts for asset maintenance and changes.  
 
-![C.B.S Assets Inventory](https://github.com/MohamedKarabawy/projects/04.png)  
+![C.B.S Assets Inventory](https://github.com/MohamedKarabawy/projects/blob/main/04.png)  
 
 ---
 
