@@ -113,3 +113,25 @@ SanctumProject is a demonstration of **Laravel Sanctum** for secure API authenti
 - **State Management**: Redux
 
 --- 
+
+## 8. To do list App Demo (Code)  
+**Link:** [https://github.com/MohamedKarabawy/TodoApp](https://github.com/MohamedKarabawy/TodoApp)  
+
+### Overview  
+**To do list app** is a **Task** management system built using **PHP (Laravel) and React.js**, following **SOLID principles** to ensure clean, scalable, and maintainable code.  
+
+![To do list App Demo](https://github.com/MohamedKarabawy/projects/blob/main/06.png)  
+
+### Features  
+✅ **Task Management** – Organizers can create, update, and manage tasks details.  
+✅ **Scalable Architecture** – Built with **Laravel (backend)** and **React.js (frontend)** for a modern user experience.  
+✅ **SOLID Principles** – Ensuring high code quality, maintainability, and extensibility.  
+
+### Tech Stack  
+- **Backend**: Laravel (PHP)  
+- **Frontend**: React.js  
+- **Database**: MySQL/PostgreSQL  
+- **Authentication**: Laravel Sanctum 
+- **State Management**: Redux
+
+---
