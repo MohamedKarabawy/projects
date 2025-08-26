@@ -11,7 +11,6 @@ Al7awy is an online platform that offers electronic tests and educational conten
 ---
 
 ## 2. Brugram (Offline)  
-**Link:** [https://brugram.net](https://brugram.net)  
 
 ### Overview  
 Brugram is designed as a comprehensive platform for a software development company, offering a wide range of advanced features:  
@@ -45,7 +44,6 @@ Triangle is a comprehensive surveying tool designed for technicians and engineer
 ---
 
 ## 4. Courses Management System (Online)  
-**Link:** [https://gatewaysystem.net/](https://gatewaysystem.net/)  
 
 ### Overview  
 Gateway System is a powerful Courses Management System that enables seamless handling of students, teachers, and courses.  
@@ -98,12 +96,12 @@ SanctumProject is a demonstration of **Laravel Sanctum** for secure API authenti
 - **Attendee** – Accepts or declines event invitations and participates in events.  
 
 ### Features  
-✅ **Role-Based Access Control (RBAC)** – Ensures users can only perform actions permitted by their roles.  
-✅ **Event Management** – Organizers can create, update, and manage event details.  
-✅ **Invitation System** – Attendees can accept or decline event invitations.  
-✅ **Admin Dashboard** – Allows administrators to oversee the system and manage users.  
-✅ **Scalable Architecture** – Built with **Laravel (backend)** and **React.js (frontend)** for a modern user experience.  
-✅ **SOLID Principles** – Ensuring high code quality, maintainability, and extensibility.  
+**Role-Based Access Control (RBAC)** – Ensures users can only perform actions permitted by their roles.  
+**Event Management** – Organizers can create, update, and manage event details.  
+**Invitation System** – Attendees can accept or decline event invitations.  
+**Admin Dashboard** – Allows administrators to oversee the system and manage users.  
+**Scalable Architecture** – Built with **Laravel (backend)** and **React.js (frontend)** for a modern user experience.  
+**SOLID Principles** – Ensuring high code quality, maintainability, and extensibility.  
 
 ### Tech Stack  
 - **Backend**: Laravel (PHP)  
@@ -123,9 +121,9 @@ SanctumProject is a demonstration of **Laravel Sanctum** for secure API authenti
 ![To do list App Demo](https://github.com/MohamedKarabawy/projects/blob/main/06.png)  
 
 ### Features  
-✅ **Task Management** – Organizers can create, update, and manage tasks details.  
-✅ **Scalable Architecture** – Built with **Laravel (backend)** and **React.js (frontend)** for a modern user experience.  
-✅ **SOLID Principles** – Ensuring high code quality, maintainability, and extensibility.  
+**Task Management** – Organizers can create, update, and manage tasks details.  
+**Scalable Architecture** – Built with **Laravel (backend)** and **React.js (frontend)** for a modern user experience.  
+**SOLID Principles** – Ensuring high code quality, maintainability, and extensibility.  
 
 ### Tech Stack  
 - **Backend**: Laravel (PHP)  
