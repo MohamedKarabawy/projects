@@ -4,7 +4,7 @@
 **Link:** [https://elhawyonline.com/](https://elhawyonline.com/)  
 
 ### Overview  
-Al7awy is an online platform that offers electronic tests and educational content. It is designed to support students and learners in assessing and enhancing their knowledge across a variety of subjects. The site provides digital exams, practice questions, and other tools aimed at improving academic performance.  
+Elhawy is an online platform that offers electronic tests and educational content. It is designed to support students and learners in assessing and enhancing their knowledge across a variety of subjects. The site provides digital exams, practice questions, and other tools aimed at improving academic performance.  
 
 ![Al7awy](https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/10.png)  
 
