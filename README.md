@@ -1,7 +1,7 @@
 # Projects  
 
 ## 1. Area (Online)  
-**Link:** [https://play.google.com/store/apps/details?id=com.survey.area](https://play.google.com/store/apps/details?id=com.survey.area)  
+**Link:** [Google Play Store](https://play.google.com/store/apps/details?id=com.survey.area)  
 
 ### Overview  
 Area is a professional surveying application designed for survey technicians and survey engineers.
