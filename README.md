@@ -1,6 +1,25 @@
 # Projects  
 
-## 1. Elhawy (Online)  
+## 1. Area (Online)  
+**Link:** [https://play.google.com/store/apps/details?id=com.survey.area](https://play.google.com/store/apps/details?id=com.survey.area)  
+
+### Overview  
+Area is a professional surveying application designed for survey technicians and survey engineers.
+It provides a powerful set of tools for land measurement, area calculation, mapping, and GIS/GPS workflows.
+
+With Area, you can view and locate points directly on the map, calculate land and building areas, and easily share locations and measurement results.
+The app also supports converting global latitude and longitude into local coordinate systems in multiple formats, ensuring accuracy across different surveying standards.
+
+Area includes dedicated support for agricultural land measurement. It calculates total area in square meters and converts between Faddan, Qirat, and Sahm, and vice versa.
+In addition, the app displays the number of agrimaps based on 1:2500 scale data.
+
+Designed to make fieldwork faster, more accurate, and more practical, Area is suitable for everything from professional surveying projects to outdoor use. 
+
+![Area](https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/11.png)  
+
+---
+
+## 2. Elhawy (Online)  
 **Link:** [https://elhawyonline.com/](https://elhawyonline.com/)  
 
 ### Overview  
@@ -10,7 +29,7 @@ Elhawy is an online platform that offers electronic tests and educational conten
 
 ---
 
-## 2. Brugram (Offline)  
+## 3. Brugram (Offline)  
 
 ### Overview  
 Brugram is designed as a comprehensive platform for a software development company, offering a wide range of advanced features:  
@@ -27,7 +46,7 @@ Brugram is designed as a comprehensive platform for a software development compa
 
 ---
 
-## 3. Triangle (Online)  
+## 4. Triangle (Online)  
 **Link:** [Google Play Store](https://play.google.com/store/apps/details?id=com.survey.triangle)  
 
 ### Overview  
@@ -42,7 +61,7 @@ Triangle is a comprehensive surveying tool designed for technicians and engineer
 
 ---
 
-## 4. Courses Management System (Online)  
+## 5. Courses Management System (Online)  
 
 ### Overview  
 Gateway System is a powerful Courses Management System that enables seamless handling of students, teachers, and courses.  
@@ -55,7 +74,7 @@ Gateway System is a powerful Courses Management System that enables seamless han
 
 ---
 
-## 5. C.B.S Assets Inventory (Offline)  
+## 6. C.B.S Assets Inventory (Offline)  
 **Link:** Pending  
 
 ### Overview  
@@ -70,7 +89,7 @@ C.B.S Assets Inventory is a robust solution designed for enterprises to manage a
 
 ---
 
-## 6. API DEMO (Code)  
+## 7. API DEMO (Code)  
 **Link:** [https://github.com/MohamedKarabawy/SanctumProject](https://github.com/MohamedKarabawy/SanctumProject)  
 
 ### Overview  
@@ -82,7 +101,7 @@ SanctumProject is a demonstration of **Laravel Sanctum** for secure API authenti
 
 ---
 
-## 7. Event Organizer Demo (Code)  
+## 8. Event Organizer Demo (Code)  
 **Link:** [https://github.com/MohamedKarabawy/EventOrganizer](https://github.com/MohamedKarabawy/EventOrganizer)  
 
 ### Overview  
@@ -110,7 +129,7 @@ SanctumProject is a demonstration of **Laravel Sanctum** for secure API authenti
 
 --- 
 
-## 8. To do list App Demo (Code)  
+## 9. To do list App Demo (Code)  
 **Link:** [https://github.com/MohamedKarabawy/TodoApp](https://github.com/MohamedKarabawy/TodoApp)  
 
 ### Overview  
