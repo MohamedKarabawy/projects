@@ -43,6 +43,14 @@ Brugram is designed as a comprehensive platform for a software development compa
 - **Bug & Error Tracking** – Identifies and resolves issues efficiently.  
 - **Custom Templates** – Dynamic page design allowing layout personalization.  
 
+![Brugram](https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/17.png)  
+![Brugram](https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/18.png)  
+![Brugram](https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/19.png)  
+![Brugram](https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/20.png)  
+![Brugram](https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/21.png)  
+![Brugram](https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/22.png)  
+![Brugram](https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/23.png)  
+![Brugram](https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/24.png)  
 
 ---
 
