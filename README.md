@@ -209,3 +209,38 @@ The system simulates how orders and payments interact, including **state transit
 - **Database**: MySQL  
 - **API**: RESTful API  
 ---
+
+## 10. Daqal Meat E-Commerce Platform (Online Store)  
+**Link:** [https://aldaqal.com/](https://aldaqal.com/)  
+
+### Overview  
+A modern online meat store platform designed to streamline product browsing, ordering, and customer engagement with a smooth and reliable shopping experience.  
+
+- **Product Catalog Management** – Browse different meat categories with detailed descriptions, pricing, and availability.  
+- **Shopping Cart & Checkout** – Add, update, and manage items with a seamless checkout process.  
+- **Order Management System** – Place, track, and manage orders with real-time status updates.  
+- **Secure Payments Integration** – Supports multiple payment methods with safe transaction handling.  
+- **User Accounts & Profiles** – Customer registration, login, and order history tracking.  
+- **Delivery & Address Management** – Save multiple addresses and manage delivery preferences.  
+- **Contact & Support System** – Built-in contact form and customer inquiry handling.  
+- **Notifications System** – Order confirmations and status updates via notifications.  
+- **Admin Dashboard** – Manage products, orders, customers, and store operations efficiently.  
+
+![Daqal Meat E-Commerce Platform](https://github.com/MohamedKarabawy/projects/blob/main/31.png)  
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/32.png" width="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/33.png" width="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/34.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/35.png" width="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/36.png" width="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/37.png" width="100%"></td>
+  </tr>
+    <tr>
+    <td><img src="https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/38.png" width="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/39.png" width="100%"></td>
+  </tr>
+</table>
+---
