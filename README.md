@@ -122,95 +122,9 @@ C.B.S Assets Inventory is a robust solution designed for enterprises to manage a
   </tr>
 </table>
 
-
 ---
 
-## 7. API DEMO (Code)  
-**Link:** [https://github.com/MohamedKarabawy/SanctumProject](https://github.com/MohamedKarabawy/SanctumProject)  
-
-### Overview  
-SanctumProject is a demonstration of **Laravel Sanctum** for secure API authentication and authorization.  
-
-- **Token-Based Authentication** – Ideal for SPAs and mobile applications.  
-- **User Roles & Permissions** – Secure access control and protected routes.  
-- **Scalable Architecture** – Provides a foundation for building secure Laravel applications.  
-
----
-
-## 8. Event Organizer Demo (Code)  
-**Link:** [https://github.com/MohamedKarabawy/EventOrganizer](https://github.com/MohamedKarabawy/EventOrganizer)  
-
-### Overview  
-**Event Organizer** is a **multi-role** event management system built using **PHP (Laravel) and React.js**, following **SOLID principles** to ensure clean, scalable, and maintainable code.  
-
-### Roles & Permissions  
-- **Admin** – Manages users, events, and system settings.  
-- **Organizer** – Creates and manages events, sending invitations to attendees.  
-- **Attendee** – Accepts or declines event invitations and participates in events.  
-
-### Features  
-**Role-Based Access Control (RBAC)** – Ensures users can only perform actions permitted by their roles.  
-**Event Management** – Organizers can create, update, and manage event details.  
-**Invitation System** – Attendees can accept or decline event invitations.  
-**Admin Dashboard** – Allows administrators to oversee the system and manage users.  
-**Scalable Architecture** – Built with **Laravel (backend)** and **React.js (frontend)** for a modern user experience.  
-**SOLID Principles** – Ensuring high code quality, maintainability, and extensibility.  
-
-### Tech Stack  
-- **Backend**: Laravel (PHP)  
-- **Frontend**: React.js  
-- **Database**: MySQL/PostgreSQL  
-- **Authentication**: Laravel Sanctum 
-- **State Management**: Redux
-
---- 
-
-## 9. To do list App Demo (Code)  
-**Link:** [https://github.com/MohamedKarabawy/TodoApp](https://github.com/MohamedKarabawy/TodoApp)  
-
-### Overview  
-**To do list app** is a **Task** management system built using **PHP (Laravel) and React.js**, following **SOLID principles** to ensure clean, scalable, and maintainable code.  
-
-![To do list App Demo](https://github.com/MohamedKarabawy/projects/blob/main/06.png)  
-
-### Features  
-**Task Management** – Organizers can create, update, and manage tasks details.  
-**Scalable Architecture** – Built with **Laravel (backend)** and **React.js (frontend)** for a modern user experience.  
-**SOLID Principles** – Ensuring high code quality, maintainability, and extensibility.  
-
-### Tech Stack  
-- **Backend**: Laravel (PHP)  
-- **Frontend**: React.js  
-- **Database**: MySQL/PostgreSQL  
-- **Authentication**: Laravel Sanctum 
-- **State Management**: Redux
-
----
-
-## 10. Payment & Order Management API (Simulation)  
-**Link:** [https://github.com/MohamedKarabawy/Payment-and-order-management-API](https://github.com/MohamedKarabawy/Payment-and-order-management-API)  
-
-### Overview  
-**Payment & Order Management API** is a **simulation system** that models real-world **order and payment workflows**, built using **PHP (Laravel)** with a focus on **clean architecture and scalability**.  
-
-The system simulates how orders and payments interact, including **state transitions**, **transaction handling**, and **data consistency**, without relying on external payment gateways. It is designed for **learning, testing, and demonstrating system design concepts** used in production environments.  
-
-### Features  
-**Order Management** – Create and manage orders with full lifecycle simulation (pending, completed, cancelled).  
-**Payment Simulation** – Simulate payment scenarios (success, failure, pending) without real gateway integration.  
-**Transaction Handling** – Track and link transactions to orders with support for refunds and reversals.  
-**Data Consistency** – Ensures synchronization between order states and payment status.  
-**Scalable Architecture** – Modular design separating Orders, Payments, and Transactions.  
-**RESTful API** – Clean and structured endpoints for easy integration and testing.  
-**Idempotent Operations** – Prevents duplicate transactions in retry scenarios.  
-
-### Tech Stack  
-- **Backend**: Laravel (PHP)  
-- **Database**: MySQL  
-- **API**: RESTful API  
----
-
-## 11. Daqal Meat E-Commerce Platform (Online Store)  
+## 7. Daqal Meat E-Commerce Platform (Online Store)  
 **Link:** [https://aldaqal.com/](https://aldaqal.com/)  
 
 ### Overview  
@@ -243,4 +157,90 @@ A modern online meat store platform designed to streamline product browsing, ord
     <td><img src="https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/39.png" width="100%"></td>
   </tr>
 </table>
+
+---
+
+## 8. API DEMO (Code)  
+**Link:** [https://github.com/MohamedKarabawy/SanctumProject](https://github.com/MohamedKarabawy/SanctumProject)  
+
+### Overview  
+SanctumProject is a demonstration of **Laravel Sanctum** for secure API authentication and authorization.  
+
+- **Token-Based Authentication** – Ideal for SPAs and mobile applications.  
+- **User Roles & Permissions** – Secure access control and protected routes.  
+- **Scalable Architecture** – Provides a foundation for building secure Laravel applications.  
+
+---
+
+## 9. Event Organizer Demo (Code)  
+**Link:** [https://github.com/MohamedKarabawy/EventOrganizer](https://github.com/MohamedKarabawy/EventOrganizer)  
+
+### Overview  
+**Event Organizer** is a **multi-role** event management system built using **PHP (Laravel) and React.js**, following **SOLID principles** to ensure clean, scalable, and maintainable code.  
+
+### Roles & Permissions  
+- **Admin** – Manages users, events, and system settings.  
+- **Organizer** – Creates and manages events, sending invitations to attendees.  
+- **Attendee** – Accepts or declines event invitations and participates in events.  
+
+### Features  
+**Role-Based Access Control (RBAC)** – Ensures users can only perform actions permitted by their roles.  
+**Event Management** – Organizers can create, update, and manage event details.  
+**Invitation System** – Attendees can accept or decline event invitations.  
+**Admin Dashboard** – Allows administrators to oversee the system and manage users.  
+**Scalable Architecture** – Built with **Laravel (backend)** and **React.js (frontend)** for a modern user experience.  
+**SOLID Principles** – Ensuring high code quality, maintainability, and extensibility.  
+
+### Tech Stack  
+- **Backend**: Laravel (PHP)  
+- **Frontend**: React.js  
+- **Database**: MySQL/PostgreSQL  
+- **Authentication**: Laravel Sanctum 
+- **State Management**: Redux
+
+--- 
+
+## 10. To do list App Demo (Code)  
+**Link:** [https://github.com/MohamedKarabawy/TodoApp](https://github.com/MohamedKarabawy/TodoApp)  
+
+### Overview  
+**To do list app** is a **Task** management system built using **PHP (Laravel) and React.js**, following **SOLID principles** to ensure clean, scalable, and maintainable code.  
+
+![To do list App Demo](https://github.com/MohamedKarabawy/projects/blob/main/06.png)  
+
+### Features  
+**Task Management** – Organizers can create, update, and manage tasks details.  
+**Scalable Architecture** – Built with **Laravel (backend)** and **React.js (frontend)** for a modern user experience.  
+**SOLID Principles** – Ensuring high code quality, maintainability, and extensibility.  
+
+### Tech Stack  
+- **Backend**: Laravel (PHP)  
+- **Frontend**: React.js  
+- **Database**: MySQL/PostgreSQL  
+- **Authentication**: Laravel Sanctum 
+- **State Management**: Redux
+
+---
+
+## 11. Payment & Order Management API (Simulation)  
+**Link:** [https://github.com/MohamedKarabawy/Payment-and-order-management-API](https://github.com/MohamedKarabawy/Payment-and-order-management-API)  
+
+### Overview  
+**Payment & Order Management API** is a **simulation system** that models real-world **order and payment workflows**, built using **PHP (Laravel)** with a focus on **clean architecture and scalability**.  
+
+The system simulates how orders and payments interact, including **state transitions**, **transaction handling**, and **data consistency**, without relying on external payment gateways. It is designed for **learning, testing, and demonstrating system design concepts** used in production environments.  
+
+### Features  
+**Order Management** – Create and manage orders with full lifecycle simulation (pending, completed, cancelled).  
+**Payment Simulation** – Simulate payment scenarios (success, failure, pending) without real gateway integration.  
+**Transaction Handling** – Track and link transactions to orders with support for refunds and reversals.  
+**Data Consistency** – Ensures synchronization between order states and payment status.  
+**Scalable Architecture** – Modular design separating Orders, Payments, and Transactions.  
+**RESTful API** – Clean and structured endpoints for easy integration and testing.  
+**Idempotent Operations** – Prevents duplicate transactions in retry scenarios.  
+
+### Tech Stack  
+- **Backend**: Laravel (PHP)  
+- **Database**: MySQL  
+- **API**: RESTful API  
 ---
