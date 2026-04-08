@@ -69,7 +69,7 @@ Triangle is a comprehensive surveying tool designed for technicians and engineer
 
 ---
 
-## 5. Courses Management System (Online)  
+## 5. Courses Management System (Offline)  
 
 ### Overview  
 Gateway System is a powerful Courses Management System that enables seamless handling of students, teachers, and courses.  
@@ -79,7 +79,18 @@ Gateway System is a powerful Courses Management System that enables seamless han
 - **Real-Time Communication** – Messaging and notifications for improved engagement.  
 - **Single-Page Application (SPA)** – Enhances user experience with seamless navigation.  
 
-
+![Courses Management System](https://github.com/MohamedKarabawy/projects/blob/main/25.png)  
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/26.png" width="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/27.png" width="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/28.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/29.png" width="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/30.png" width="100%"></td>
+  </tr>
+</table>
 ---
 
 ## 6. C.B.S Assets Inventory (Offline)  
