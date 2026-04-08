@@ -195,8 +195,6 @@ SanctumProject is a demonstration of **Laravel Sanctum** for secure API authenti
 
 The system simulates how orders and payments interact, including **state transitions**, **transaction handling**, and **data consistency**, without relying on external payment gateways. It is designed for **learning, testing, and demonstrating system design concepts** used in production environments.  
 
-![Payment & Order Management API](https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/10.webp)  
-
 ### Features  
 **Order Management** – Create and manage orders with full lifecycle simulation (pending, completed, cancelled).  
 **Payment Simulation** – Simulate payment scenarios (success, failure, pending) without real gateway integration.  
