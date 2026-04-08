@@ -86,6 +86,23 @@ C.B.S Assets Inventory is a robust solution designed for enterprises to manage a
 - **Automated Notifications** – Alerts for asset maintenance and changes.  
 
 ![C.B.S Assets Inventory](https://github.com/MohamedKarabawy/projects/blob/main/04.png)  
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/10.webp" width="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/11.webp" width="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/12.webp" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/13.webp" width="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/14.webp" width="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/15.webp" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/16.webp" width="100%"></td>
+
+  </tr>
+</table>
+
 
 ---
 
