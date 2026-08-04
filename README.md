@@ -28,41 +28,7 @@ Elhawy is an online platform that offers electronic tests and educational conten
 ![Al7awy](https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/10.png)  
 
 ---
-
-## 3. Brugram (Offline)  
-
-### Overview  
-Brugram is designed as a comprehensive platform for a software development company, offering a wide range of advanced features:  
-
-- **Invoicing System** – Simplifies billing and payment management.  
-- **Project Management** – Enables seamless tracking of ongoing projects.  
-- **Online Payments** – Integrated payment gateway for efficient transactions.  
-- **User Access Control** – Blacklist and whitelist functionalities for enhanced security.  
-- **Automation Tools** – Streamlines various business operations.  
-- **Dynamic Dashboard** – Full control over the website, including a one-click maintenance mode.  
-- **Bug & Error Tracking** – Identifies and resolves issues efficiently.  
-- **Custom Templates** – Dynamic page design allowing layout personalization.  
-
-![Brugram](https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/17.png)  
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/18.png" width="100%"></td>
-    <td><img src="https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/19.png" width="100%"></td>
-    <td><img src="https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/20.png" width="100%"></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/21.png" width="100%"></td>
-    <td><img src="https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/22.png" width="100%"></td>
-    <td><img src="https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/23.png" width="100%"></td>
-  </tr>
-    <tr>
-    <td><img src="https://raw.githubusercontent.com/MohamedKarabawy/projects/refs/heads/main/24.png" width="100%"></td>
-  </tr>
-</table>
-
----
-
-## 4. Triangle (Online)  
+## 3. Triangle (Online)  
 **Link:** [Google Play Store](https://play.google.com/store/apps/details?id=com.survey.triangle)  
 
 ### Overview  
@@ -77,7 +43,7 @@ Triangle is a comprehensive surveying tool designed for technicians and engineer
 
 ---
 
-## 5. Courses Management System (Offline)  
+## 4. Courses Management System (Offline)  
 
 ### Overview  
 Gateway System is a powerful Courses Management System that enables seamless handling of students, teachers, and courses.  
@@ -101,7 +67,7 @@ Gateway System is a powerful Courses Management System that enables seamless han
 </table>
 ---
 
-## 6. C.B.S Assets Inventory (Offline)  
+## 5. C.B.S Assets Inventory (Offline)  
 **Link:** Pending  
 
 ### Overview  
@@ -132,7 +98,7 @@ C.B.S Assets Inventory is a robust solution designed for enterprises to manage a
 
 ---
 
-## 7. Daqal Meat E-Commerce Platform (Online Store)  
+## 6. Daqal Meat E-Commerce Platform (Online Store)  
 **Link:** [https://aldaqal.com/](https://aldaqal.com/)  
 
 ### Overview  
@@ -168,7 +134,7 @@ A modern online meat store platform designed to streamline product browsing, ord
 
 ---
 
-## 8. API DEMO (Code)  
+## 7. API DEMO (Code)  
 **Link:** [https://github.com/MohamedKarabawy/SanctumProject](https://github.com/MohamedKarabawy/SanctumProject)  
 
 ### Overview  
@@ -180,7 +146,7 @@ SanctumProject is a demonstration of **Laravel Sanctum** for secure API authenti
 
 ---
 
-## 9. Event Organizer Demo (Code)  
+## 8. Event Organizer Demo (Code)  
 **Link:** [https://github.com/MohamedKarabawy/EventOrganizer](https://github.com/MohamedKarabawy/EventOrganizer)  
 
 ### Overview  
@@ -208,7 +174,7 @@ SanctumProject is a demonstration of **Laravel Sanctum** for secure API authenti
 
 --- 
 
-## 10. To do list App Demo (Code)  
+## 9. To do list App Demo (Code)  
 **Link:** [https://github.com/MohamedKarabawy/TodoApp](https://github.com/MohamedKarabawy/TodoApp)  
 
 ### Overview  
@@ -230,7 +196,7 @@ SanctumProject is a demonstration of **Laravel Sanctum** for secure API authenti
 
 ---
 
-## 11. Payment & Order Management API (Simulation)  
+## 10. Payment & Order Management API (Simulation)  
 **Link:** [https://github.com/MohamedKarabawy/Payment-and-order-management-API](https://github.com/MohamedKarabawy/Payment-and-order-management-API)  
 
 ### Overview  
