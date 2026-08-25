@@ -218,3 +218,31 @@ The system simulates how orders and payments interact, including **state transit
 - **Database**: MySQL  
 - **API**: RESTful API  
 ---
+
+## 11. PHP MVC Framework
+**Link:** https://github.com/MohamedKarabawy/php-mvc
+
+### Overview
+**PHP MVC Framework** is a **minimal educational PHP MVC framework** built from scratch to demonstrate how the core components of MVC frameworks work under the hood.
+
+The project focuses on understanding the architecture and internal mechanisms behind frameworks such as Laravel rather than providing a production-ready alternative. It implements the fundamental building blocks of an MVC framework, including **routing, dependency injection, service containers, controllers, models, views, relationships, migrations, requests, and environment configuration**, with full in-app documentation explaining how each component works.
+
+### Features
+**MVC Architecture** – Clear separation between models, views, controllers, and framework core components.  
+**Service Container** – Reflection-based dependency injection and automatic dependency resolution.  
+**Routing** – HTTP route registration and controller dispatching for different request methods.  
+**Request Handling** – Simple abstraction for accessing HTTP request data and methods.  
+**ORM / Models** – Database models with querying and relationship support.  
+**Relationships** – Support for `hasOne`, `hasMany`, `belongsTo`, and `belongsToMany`.  
+**Views & Templating** – PHP-based views with a lightweight Blade-like syntax using layouts, sections, and `yield()`.  
+**Migrations** – Simple database migration mechanism for managing schema changes.  
+**Environment Configuration** – `.env`-based environment configuration.  
+**Helpers** – Framework helper functions for common application tasks.  
+**In-App Documentation** – Full documentation explaining the framework architecture, components, and request lifecycle.
+
+### Tech Stack
+- **Language:** PHP
+- **Architecture:** MVC
+- **Database:** MySQL / PDO
+- **Templating:** PHP-based views with a lightweight Blade-like syntax
+- **Web Server:** Apache / Nginx
