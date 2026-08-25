@@ -218,8 +218,35 @@ The system simulates how orders and payments interact, including **state transit
 - **Database**: MySQL  
 - **API**: RESTful API  
 ---
+## 11. Egyptian Belts Coordinate Conversion Library
+**Link:** https://github.com/MohamedKarabawy/Egyptian-Belts
 
-## 11. PHP MVC Framework
+### Overview
+**Egyptian Belts** is a **TypeScript/JavaScript geospatial utility library** for coordinate conversion and transformations involving **Egyptian Survey Belts, Egyptian National Coordinate Systems, UTM, WGS84, DMS, DMM, and Easting/Northing coordinates**.
+
+The library is built on top of `proj4` and provides a simple API for converting coordinates between different geospatial reference systems, detecting Egyptian survey belts, and working with common GPS coordinate formats. It is designed to be usable in **Node.js, browser applications, TypeScript projects, React, and React Native**.
+
+### Features
+**Egyptian Belt Detection** – Automatically determine which Egyptian Survey Belt a GPS coordinate belongs to.  
+**Egyptian Belt Conversion** – Convert latitude/longitude coordinates to Egyptian Belt Easting/Northing coordinates and back.  
+**UTM Conversion** – Convert between decimal GPS coordinates and UTM Easting/Northing coordinates.  
+**DMS Conversion** – Convert Degrees/Minutes/Seconds coordinates to decimal degrees.  
+**DMM Conversion** – Convert Degrees/Decimal Minutes coordinates to decimal degrees.  
+**Belt Information** – Resolve Egyptian Belt names and their corresponding EPSG projection codes.  
+**Nearest Belt Detection** – Find the closest Egyptian Survey Belt for coordinates outside defined belt boundaries.  
+**TypeScript Support** – Includes built-in TypeScript type declarations without requiring a separate `@types` package.  
+**Cross-Platform Support** – Works with Node.js, browser bundlers, React, and React Native.
+
+### Tech Stack
+- **Language:** JavaScript / TypeScript
+- **Geospatial Library:** PROJ4 (`proj4`)
+- **Module System:** CommonJS / ES Modules
+- **Type Definitions:** TypeScript declarations
+- **Platforms:** Node.js, Browser, React, React Native
+- **Package Manager:** npm
+--- 
+
+## 12. PHP MVC Framework
 **Link:** https://github.com/MohamedKarabawy/php-mvc
 
 ### Overview
